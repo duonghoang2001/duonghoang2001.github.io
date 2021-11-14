@@ -1,6 +1,6 @@
 ### Duong Hoang's Projects
 
-```markdown
+
 # Technica
 
 ## Technica 2021
@@ -9,14 +9,14 @@
 - Prizes: 
 + Best Use of Collaboration Technology - T. Rowe Price, 
 + Welcome to Hacking: Best Beginner Hack (College/General)
-- Learn more about Fusionify here: https://devpost.com/software/fusionify
+- Learn more about Fusionify [here](https://devpost.com/software/fusionify)
 
 ## Technica 2020
 - Roulette Game: A counting algorithm inspired from the traditional Russian Roulette game where there is only one loser of each game
 - Team members: Duong Hoang (me!), Laura Reese, Sydney Chapman, Jovanna Hernandez
 - Learn more about our Roulette Game [here](https://devpost.com/software/roulette-game-3x8uwh)
 
-```markdown
+
 # Dr. Simone Silvestri's Research Lab
 
 ## Ullman's Algorithm
@@ -26,7 +26,7 @@
 ## Subgraph Isomorphisms Visualization
 - Mapping subgraph isomorphisms onto a graph based on generated textfile
 - Codes: [Link](url)
-```
+
 
 ```markdown
 # VirusTotal 
