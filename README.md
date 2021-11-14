@@ -1,4 +1,4 @@
-### Duong Hoang's Projects
+# Duong Hoang's Projects
 
 
 # Technica
