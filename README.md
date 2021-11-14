@@ -4,18 +4,20 @@
 # Technica
 
 ## Technica 2021
+```markdown
 - Fusionify: Create a fusion playlist on Spotify containing your and your friends' favorite tracks
 - Team members: Duong Hoang (me!), Laura Reese, Margarete Cunningham
 - Prizes: 
 + Best Use of Collaboration Technology - T. Rowe Price, 
 + Welcome to Hacking: Best Beginner Hack (College/General)
 - Learn more about Fusionify [here](https://devpost.com/software/fusionify)
-
+```
+```markdown
 ## Technica 2020
 - Roulette Game: A counting algorithm inspired from the traditional Russian Roulette game where there is only one loser of each game
 - Team members: Duong Hoang (me!), Laura Reese, Sydney Chapman, Jovanna Hernandez
 - Learn more about our Roulette Game [here](https://devpost.com/software/roulette-game-3x8uwh)
-
+```
 
 # Dr. Simone Silvestri's Research Lab
 
@@ -28,13 +30,11 @@
 - Codes: [Link](url)
 
 
-```markdown
 # VirusTotal 
 - Calling API to get reports from VirusTotal then query them onto a database
 - Codes: [Link](url)
-```
 
-```markdown
+
 # Class Projects
 
 ## Algorithm Design
@@ -44,4 +44,4 @@
 ## Socket Programming
 - Codes:
 [Link](url)
-```
+
