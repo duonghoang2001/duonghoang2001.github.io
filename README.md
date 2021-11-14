@@ -9,7 +9,7 @@
 - Prizes: 
 + Best Use of Collaboration Technology - T. Rowe Price, 
 + Welcome to Hacking: Best Beginner Hack (College/General)
-- Learn more about Fusionify [here](https://devpost.com/software/fusionify)
+- Learn more about Fusionify here: https://devpost.com/software/fusionify
 
 ## Technica 2020
 - Roulette Game: A counting algorithm inspired from the traditional Russian Roulette game where there is only one loser of each game
