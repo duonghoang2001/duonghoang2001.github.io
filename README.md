@@ -31,7 +31,9 @@
 - Codes: [Link](url)
 
 
-# VirusTotal 
+# Internship Projects
+
+## VirusTotal API
 - Calling API to get reports from VirusTotal then query them onto a database
 - Codes: [Link](url)
 
