@@ -4,8 +4,8 @@
 - Fusionify: Create a fusion playlist on Spotify containing your and your friends' favorite tracks
 - Team members: Duong Hoang (me!), Laura Reese, Margarete Cunningham
 - Prizes: 
-+ Best Use of Collaboration Technology - T. Rowe Price, 
-+ Welcome to Hacking: Best Beginner Hack (College/General)
+  - Best Use of Collaboration Technology - T. Rowe Price, 
+  - Welcome to Hacking: Best Beginner Hack (College/General)
 - Learn more about Fusionify [here](https://devpost.com/software/fusionify)
 ## Technica 2020
 - Roulette Game: A counting algorithm inspired from the Russian Roulette game where there is only one loser of each game
